@@ -46,6 +46,8 @@ A dynamic website built to showcase computer products and services with admin-si
 - MySQL  
 *(Selected UI components built using Next.js)*
 
+**Status:** Live ([Development](https://mahi-mu.vercel.app/))
+
 ---
 
 ### 📈 ForexGreek – Training Institute Website
