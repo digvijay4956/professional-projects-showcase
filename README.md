@@ -1,28 +1,102 @@
-👋 Hello! I'm Digvijay, a seasoned Full Stack Developer specializing in crafting bespoke digital solutions for clients worldwide. With a rich skill set spanning HTML, CSS, JavaScript, PHP, and the MERN stack, I excel in delivering high-quality projects tailored to meet your unique needs.
+# 👋 Hi, I’m Digvijay — Here’s What I Build
 
-🚀 As a freelancer, I thrive on the dynamic challenges of bringing your vision to life. Whether it's developing sleek and user-friendly websites, creating robust backend systems, or optimizing performance for seamless user experiences, I'm dedicated to exceeding your expectations.
+Welcome to my professional project showcase 👨‍💻  
+This repository is a curated overview of real-world web projects I’ve built for businesses and academic use.
 
-💼 Over the years, I've had the privilege of collaborating with a diverse range of clients, helping businesses of all sizes elevate their online presence and achieve their goals. You can check out some of my past work and client testimonials.
+I enjoy turning ideas into clean, functional web applications that actually get used.
 
-🌟 Let's discuss how I can help bring your project to fruition. Whether you're a startup looking to make a splash or an established business seeking to innovate, I'm here to turn your ideas into reality. Reach out today, and let's embark on this exciting journey together!
+> ⚠️ Note: Source code for most projects is private due to client confidentiality and ongoing development.  
+> I’m always happy to walk through the architecture and decisions during an interview or discussion.
 
-### Featured Project
+---
 
-🌟 Here's my featured project:
+## 🚀 Featured Projects
 
-1. Gaurav Chemicals ([Link to Project](https://gauravchemicals.com/)): A website developed for a chemical company.
+### 🏭 Business Website – Chemical Manufacturing Company
+A clean, responsive business website developed for a chemical pigment manufacturing company.
 
-   - Technologies used: HTML, CSS, JavaScript, PHP
-   
-   Description: This project involved designing and developing a website for a chemical company to showcase their products and services. The website features a modern and user-friendly interface, allowing visitors to easily navigate through product catalogs, learn about the company's history, and contact them for inquiries.
+**What I worked on**
+- Structured product & company information pages
+- Responsive layout for desktop and mobile
+- Production deployment for public access
 
-2. Dzign ([Link to Project](https://iridescent-manatee-38436b.netlify.app/)): A website for a Digital Marketing Company.
-   
-   - Technologies used: HTML, CSS, Javascript, PHP
-   
-   Description: Explore our comprehensive digital marketing hub, featuring a suite of services including SEO, graphic design, and more. With sleek UI, we empower businesses to thrive in the digital landscape.
+**Tech Stack**
+- HTML
+- CSS
+- PHP
 
-📧 **Contact Me**
+**Status:** Live ([Production](https://gauravchemicals.com/))
 
-Feel free to reach out to me via email at digvijaymane4956@gmail.com or connect with me on LinkedIn [here](https://www.linkedin.com/in/digvijay4956cse/). I'm open to discussing new projects, collaborations, or any inquiries you may have. Let's create something amazing together!
+---
 
+### 🖥️ Mahi Computers – Dynamic Business Website
+A dynamic website built to showcase computer products and services with admin-side management.
+
+**What I worked on**
+- Product listing with admin-based management
+- Secure admin authentication
+- Backend integration with database
+- Responsive UI across devices
+
+**Tech Stack**
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL  
+*(Selected UI components built using Next.js)*
+
+---
+
+### 📈 ForexGreek – Training Institute Website
+A content-driven website for a forex trading education institute.
+
+**What I worked on**
+- Course and training information pages
+- Registration & inquiry forms
+- Clean content flow and responsive design
+
+**Tech Stack**
+- HTML
+- CSS
+- JavaScript  
+*(Selected UI components built using React.js and TypeScript)*
+
+---
+
+### 🏥 AyurMediPro – Hospital Management System  
+*(Academic & Pilot Project)*
+
+A partial hospital management system designed to digitize patient and administrative workflows for Ayurvedic hospitals.
+
+**What I worked on**
+- Patient record management
+- Appointment workflow (partial)
+- Basic administrative reporting modules
+
+**Tech Stack**
+- HTML
+- CSS
+- PHP
+- MySQL
+
+---
+
+## 🧠 How I Like to Work
+
+- Focus on **clarity over complexity**
+- Build things that are **maintainable and practical**
+- Prefer understanding the **business problem first**, then writing code
+- Care about clean UI, even in backend-heavy systems
+
+---
+
+## 📫 Want to Connect?
+
+If you’re a recruiter, interviewer, or someone looking to build something useful —  
+feel free to reach out.
+
+📧 Email: digvijaymane4956@gmail.com  
+🌐 GitHub: https://github.com/digvijay4956  
+
+Thanks for stopping by!
