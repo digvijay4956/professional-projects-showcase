@@ -16,7 +16,7 @@ I focus on building practical, scalable, and business-driven web systems — not
 ---
 
 ## 🐧 PenguinEdit – Online Photo Editing & Print Layout SaaS  
-**Status:** 🟢 Live (Production penguinedit.com)
+**Status:** 🟢 Live ([Link to Project](https://penguinedit.com/))
 
 A browser-based photo editing and print layout web application that enables users to edit images and generate ready-to-print layouts instantly — without requiring desktop software.
 
@@ -45,7 +45,7 @@ A browser-based photo editing and print layout web application that enables user
 ---
 
 ## 🏭 Gaurav Chemicals – Industrial Business Website  
-**Status:** 🟢 Live (Production gauravchemicals.com)
+**Status:** 🟢 Live ([Link to Project](https://gauravchemicals.com/))
 
 A professional business website developed for a chemical pigment manufacturing company.
 
