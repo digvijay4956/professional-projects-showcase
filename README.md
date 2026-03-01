@@ -1,138 +1,122 @@
-👋 Hi, I’m Digvijay — Here’s What I Build
+# 👋 Hi, I’m Digvijay Mane
 
-Welcome to my professional project showcase 👨‍💻
-This repository highlights real-world web applications I’ve built for businesses and academic use.
+Welcome to my professional project showcase 👨‍💻  
 
-I enjoy transforming practical business problems into clean, scalable, and user-friendly web solutions.
+This repository highlights real-world web applications I’ve built for businesses, SaaS platforms, and academic implementations.
 
-⚠️ Note: Source code for most projects is private due to client confidentiality and ongoing development.
-I’m happy to walk through architecture, design decisions, and implementation details during discussions or interviews.
+I focus on building practical, scalable, and business-driven web systems — not just UI projects, but applications that solve real operational problems.
 
-🚀 Featured Projects
-🐧 PenguinEdit – Online Photo Editing & Print Layout Tool
+> ⚠️ Note: Source code for most projects is private due to client confidentiality and ongoing development.  
+> I’m happy to walk through architecture, technical decisions, and system design in interviews or discussions.
 
-(Live SaaS Application)
+---
 
-A browser-based photo editing and print layout platform that allows users to edit images and generate ready-to-print layouts directly online.
+# 🚀 Featured Projects
 
-What It Solves
+---
 
-Eliminates the need for complex desktop tools for basic editing
+## 🐧 PenguinEdit – Online Photo Editing & Print Layout SaaS  
+**Status:** 🟢 Live (Production penguinedit.com)
 
-Allows quick cropping and resizing for standard print sizes
+A browser-based photo editing and print layout web application that enables users to edit images and generate ready-to-print layouts instantly — without requiring desktop software.
 
-Generates structured photo layouts for printing
+### 🔎 What It Solves
+- Removes dependency on heavy desktop tools for basic editing
+- Allows precise cropping for standard photo sizes
+- Generates structured multi-photo print layouts
+- Provides instant download of print-ready files
 
-Enables users to download print-ready files instantly
+### 🛠 What I Built
+- Complete Upload → Crop → Layout → Export workflow
+- Dynamic photo size selection system
+- Print layout generation engine
+- Client-side image processing
+- Production deployment with custom domain
+- DNS configuration & SSL setup
+- Hosting via Vercel
 
-What I Built
+### 💻 Tech Stack
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Vercel (Deployment & DNS)
 
-Upload → Crop → Layout → Export workflow
+---
 
-Custom photo size selection system
+## 🏭 Gaurav Chemicals – Industrial Business Website  
+**Status:** 🟢 Live (Production gauravchemicals.com)
 
-Print layout generation engine
+A professional business website developed for a chemical pigment manufacturing company.
 
-Client-side image processing
+### 🔎 What It Solves
+- Presents structured product information clearly
+- Builds online credibility for industrial clients
+- Ensures responsive access across devices
 
-Production deployment with custom domain
+### 🛠 What I Worked On
+- Structured product and company information architecture
+- Responsive UI for desktop and mobile
+- Public production deployment
+- Organized content hierarchy for industrial products
 
-DNS, SSL, and hosting setup
+### 💻 Tech Stack
+- HTML
+- CSS
+- PHP
 
-Tech Stack
+---
 
-Next.js
+## 🏥 AyurMediPro – Ayurvedic Hospital Management System  
+**Status:** 🟡 Development
 
-React
+A hospital management platform designed specifically for Ayurvedic hospitals to digitize medical workflows, treatments, and patient engagement.
 
-TypeScript
+This system goes beyond basic patient record storage.
 
-Tailwind CSS
+### 🔎 What It Solves
+- Digitizes Ayurvedic treatment documentation
+- Enables online patient appointment booking
+- Structures prescriptions and treatment plans
+- Educates patients about their prescribed treatments
+- Reduces manual administrative workload
 
-Vercel (Deployment & DNS)
+### 🛠 Key Features Built
+- Patient record management system
+- Online appointment booking module
+- Treatment documentation structure
+- Prescription management module
+- AI-assisted explanation system:
+  - Converts prescriptions into understandable explanations
+  - Helps patients understand treatments and medicines prescribed
+- Administrative reporting modules
+- Structured database design for hospital workflows
 
-Status: Live (Production)
+### 💻 Tech Stack
+- HTML
+- CSS
+- PHP
+- MySQL
 
-🏭 Gaurav Chemicals – Business Website
+---
 
-(Live Production Website)
+# 🧠 How I Like to Work
 
-A clean, responsive website developed for a chemical pigment manufacturing company.
+- Focus on clarity over unnecessary complexity
+- Understand the business problem before writing code
+- Build maintainable and structured systems
+- Prefer clean architecture over shortcuts
+- Care about UI/UX even in backend-heavy applications
 
-What I Worked On
+---
 
-Structured product & company information pages
+# 📫 Connect With Me
 
-Organized content architecture for industrial products
+If you're a recruiter, interviewer, or someone looking to build meaningful software solutions:
 
-Responsive design for desktop and mobile
+📧 Email: digvijaymane4956@gmail.com  
+🌐 GitHub: https://github.com/digvijay4956  
 
-Public production deployment
+---
 
-Tech Stack
-
-HTML
-
-CSS
-
-PHP
-
-Status: Live (Production)
-
-🏥 AyurMediPro – Hospital Management System
-
-(Academic & Pilot Project)
-
-A partial hospital management system designed to digitize workflows for Ayurvedic hospitals.
-
-What It Solves
-
-Reduces manual patient record handling
-
-Organizes appointment workflow
-
-Structures administrative reporting
-
-What I Built
-
-Patient record management system
-
-Appointment workflow module (partial)
-
-Basic reporting modules
-
-Database structure for hospital operations
-
-Tech Stack
-
-HTML
-
-CSS
-
-PHP
-
-MySQL
-
-Status: Academic / Pilot Implementation
-
-🧠 How I Like to Work
-
-Focus on clarity over complexity
-
-Build practical, maintainable systems
-
-Understand the business problem before writing code
-
-Care about clean UI — even in backend-heavy systems
-
-Prefer structured architecture over quick hacks
-
-📫 Want to Connect?
-
-If you’re a recruiter, interviewer, or someone looking to build something meaningful — feel free to reach out.
-
-📧 Email: digvijaymane4956@gmail.com
-
-🌐 GitHub: https://github.com/digvijay4956
-
-Thanks for stopping by! 🚀
+Thanks for visiting! 🚀
