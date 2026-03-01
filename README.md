@@ -1,104 +1,138 @@
-# 👋 Hi, I’m Digvijay — Here’s What I Build
+👋 Hi, I’m Digvijay — Here’s What I Build
 
-Welcome to my professional project showcase 👨‍💻  
-This repository is a curated overview of real-world web projects I’ve built for businesses and academic use.
+Welcome to my professional project showcase 👨‍💻
+This repository highlights real-world web applications I’ve built for businesses and academic use.
 
-I enjoy turning ideas into clean, functional web applications that actually get used.
+I enjoy transforming practical business problems into clean, scalable, and user-friendly web solutions.
 
-> ⚠️ Note: Source code for most projects is private due to client confidentiality and ongoing development.  
-> I’m always happy to walk through the architecture and decisions during an interview or discussion.
+⚠️ Note: Source code for most projects is private due to client confidentiality and ongoing development.
+I’m happy to walk through architecture, design decisions, and implementation details during discussions or interviews.
 
----
+🚀 Featured Projects
+🐧 PenguinEdit – Online Photo Editing & Print Layout Tool
 
-## 🚀 Featured Projects
+(Live SaaS Application)
 
-### 🏭 Business Website – Chemical Manufacturing Company
-A clean, responsive business website developed for a chemical pigment manufacturing company.
+A browser-based photo editing and print layout platform that allows users to edit images and generate ready-to-print layouts directly online.
 
-**What I worked on**
-- Structured product & company information pages
-- Responsive layout for desktop and mobile
-- Production deployment for public access
+What It Solves
 
-**Tech Stack**
-- HTML
-- CSS
-- PHP
+Eliminates the need for complex desktop tools for basic editing
 
-**Status:** Live ([Production](https://gauravchemicals.com/))
+Allows quick cropping and resizing for standard print sizes
 
----
+Generates structured photo layouts for printing
 
-### 🖥️ Mahi Computers – Dynamic Business Website
-A dynamic website built to showcase computer products and services with admin-side management.
+Enables users to download print-ready files instantly
 
-**What I worked on**
-- Product listing with admin-based management
-- Secure admin authentication
-- Backend integration with database
-- Responsive UI across devices
+What I Built
 
-**Tech Stack**
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL  
-*(Selected UI components built using Next.js)*
+Upload → Crop → Layout → Export workflow
 
-**Status:** Live ([Development](https://mahi-mu.vercel.app/))
+Custom photo size selection system
 
----
+Print layout generation engine
 
-### 📈 ForexGreek – Training Institute Website
-A content-driven website for a forex trading education institute.
+Client-side image processing
 
-**What I worked on**
-- Course and training information pages
-- Registration & inquiry forms
-- Clean content flow and responsive design
+Production deployment with custom domain
 
-**Tech Stack**
-- HTML
-- CSS
-- JavaScript  
-*(Selected UI components built using React.js and TypeScript)*
+DNS, SSL, and hosting setup
 
----
+Tech Stack
 
-### 🏥 AyurMediPro – Hospital Management System  
-*(Academic & Pilot Project)*
+Next.js
 
-A partial hospital management system designed to digitize patient and administrative workflows for Ayurvedic hospitals.
+React
 
-**What I worked on**
-- Patient record management
-- Appointment workflow (partial)
-- Basic administrative reporting modules
+TypeScript
 
-**Tech Stack**
-- HTML
-- CSS
-- PHP
-- MySQL
+Tailwind CSS
 
----
+Vercel (Deployment & DNS)
 
-## 🧠 How I Like to Work
+Status: Live (Production)
 
-- Focus on **clarity over complexity**
-- Build things that are **maintainable and practical**
-- Prefer understanding the **business problem first**, then writing code
-- Care about clean UI, even in backend-heavy systems
+🏭 Gaurav Chemicals – Business Website
 
----
+(Live Production Website)
 
-## 📫 Want to Connect?
+A clean, responsive website developed for a chemical pigment manufacturing company.
 
-If you’re a recruiter, interviewer, or someone looking to build something useful —  
-feel free to reach out.
+What I Worked On
 
-📧 Email: digvijaymane4956@gmail.com  
-🌐 GitHub: https://github.com/digvijay4956  
+Structured product & company information pages
 
-Thanks for stopping by!
+Organized content architecture for industrial products
+
+Responsive design for desktop and mobile
+
+Public production deployment
+
+Tech Stack
+
+HTML
+
+CSS
+
+PHP
+
+Status: Live (Production)
+
+🏥 AyurMediPro – Hospital Management System
+
+(Academic & Pilot Project)
+
+A partial hospital management system designed to digitize workflows for Ayurvedic hospitals.
+
+What It Solves
+
+Reduces manual patient record handling
+
+Organizes appointment workflow
+
+Structures administrative reporting
+
+What I Built
+
+Patient record management system
+
+Appointment workflow module (partial)
+
+Basic reporting modules
+
+Database structure for hospital operations
+
+Tech Stack
+
+HTML
+
+CSS
+
+PHP
+
+MySQL
+
+Status: Academic / Pilot Implementation
+
+🧠 How I Like to Work
+
+Focus on clarity over complexity
+
+Build practical, maintainable systems
+
+Understand the business problem before writing code
+
+Care about clean UI — even in backend-heavy systems
+
+Prefer structured architecture over quick hacks
+
+📫 Want to Connect?
+
+If you’re a recruiter, interviewer, or someone looking to build something meaningful — feel free to reach out.
+
+📧 Email: digvijaymane4956@gmail.com
+
+🌐 GitHub: https://github.com/digvijay4956
+
+Thanks for stopping by! 🚀
